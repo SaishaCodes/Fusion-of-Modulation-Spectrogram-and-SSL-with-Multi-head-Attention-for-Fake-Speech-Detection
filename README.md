@@ -96,8 +96,5 @@ python main_SSL_LA5_trainCombined.py --lr=0.000001 --batch_size=14 --loss=WCE --
 The trained models are provided [here](https://drive.google.com/drive/folders/18dWR2b4ektPid4C8HxFMnECm_loSWF_7?usp=sharing)
 
 
-## Contact
-For queries, please contact:
-- Rishith Sadashiv T N: ee24dp010[at]iitdh[dot]ac[dot]in
-<!-- ## Citation -->
+
 
